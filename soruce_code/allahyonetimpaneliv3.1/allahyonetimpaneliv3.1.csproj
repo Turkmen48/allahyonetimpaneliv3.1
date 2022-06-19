@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>allahyonetimpaneliv3._1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cehennem.png" />
+    <None Remove="cennet.jpg" />
+    <None Remove="earth.jpg" />
+    <None Remove="unnamed.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="cehennem.png" />
+    <Resource Include="cennet.jpg" />
+    <Resource Include="earth.jpg" />
+    <Resource Include="unnamed.png" />
+  </ItemGroup>
+
+</Project>
