@@ -8,11 +8,11 @@ Orjinal meme ilham alınarak tasarlanılmıştır.
 
 ## Screenshots
 <img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/1.png" width="700" height="700">
-<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/2.png" width="500" height="700">
-<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/3.png" width="500" height="700">
-<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/4.png" width="500" height="700">
-<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/5.png" width="500" height="700">
-<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/6.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/2.png" width="700" height="700">
+<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/3.png" width="700" height="700">
+<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/4.png" width="700" height="700">
+<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/5.png" width="700" height="700">
+<img src="https://github.com/Turkmen48/allahyonetimpaneliv3.1/blob/main/screenshots/6.png" width="700" height="700">
 
 
 
